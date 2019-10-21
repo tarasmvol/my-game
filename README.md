@@ -1,2 +1,2 @@
 # my-game
-Short text-rpg made on python 3.6
+Short text-rpg "Become a President" made on python 3.6
